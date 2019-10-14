@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tahngeemuv.richgilbank.com/sitemap.xml
